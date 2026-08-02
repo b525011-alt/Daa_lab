@@ -1,0 +1,13 @@
+PS D:\Coding> cd "d:\Coding\" ; if ($?) { gcc Coin.c -o Coin } ; if ($?) { .\Coin }
+
+Enter number of tosses: 500
+
+--- Fair Coin ---
+Heads = 239
+Tails = 261
+Probability of Head = 0.4780
+
+--- Biased Coin (70% Head) ---
+Heads = 347
+Tails = 153
+Probability of Head = 0.6940
