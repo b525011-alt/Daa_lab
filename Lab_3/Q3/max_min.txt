@@ -1,0 +1,5 @@
+Enter n: 6
+Enter elements: 12 5 8 20 3 15
+
+Maximum = 20
+Minimum = 3
