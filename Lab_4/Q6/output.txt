@@ -1,0 +1,8 @@
+Enter number of intervals: 4
+Enter interval 1: 10 40
+Enter interval 2: 20 60
+Enter interval 3: 50 90
+Enter interval 4: 15 70
+
+Point = 20
+Maximum overlapping intervals = 3
