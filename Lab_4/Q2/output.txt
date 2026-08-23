@@ -1,0 +1,19 @@
+Enter n: 5
+Enter S1:
+2 7 11 15 20
+Enter S2:
+4 6 8 10 12
+Enter X: 19
+
+Pair exists: 7 + 12 = 19
+
+
+
+Enter n: 5
+Enter S1:
+2 7 11 15 20
+Enter S2:
+4 6 8 10 12
+Enter X: 25
+
+No such pair exists.
