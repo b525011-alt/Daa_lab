@@ -1,0 +1,9 @@
+Enter number of people: 5
+Enter entry and exit time for person 1: 1 8
+Enter entry and exit time for person 2: 2 5
+Enter entry and exit time for person 3: 4 9
+Enter entry and exit time for person 4: 6 10
+Enter entry and exit time for person 5: 7 11
+
+Maximum people = 4
+Time = 7
