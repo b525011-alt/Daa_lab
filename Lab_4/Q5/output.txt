@@ -1,0 +1,11 @@
+Enter number of intervals: 6
+Enter intervals:
+1 5
+2 4
+7 9
+8 12
+15 20
+18 25
+
+Merged intervals:
+(1, 5) (7, 12) (15, 25)
