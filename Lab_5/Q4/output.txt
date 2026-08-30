@@ -1,0 +1,10 @@
+PS D:\Coding\Daa_lab\Lab_5\Q3> cd "d:\Coding\Daa_lab\Lab_5\Q4\" ; if ($?) { gcc qu4.c -o qu4 } ; if ($?) { .\qu4 }
+Enter number of elements: 5
+
+Randomly generated elements:
+215 305 487 466 22 
+
+Sorted elements using Heap Sort:
+22 215 305 466 487 
+
+The generated elements are also stored in file.txt

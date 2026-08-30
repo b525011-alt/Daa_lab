@@ -1,0 +1,6 @@
+PS D:\Coding\Daa_lab> cd "d:\Coding\Daa_lab\Lab_5\Q1\" ; if ($?) { gcc qu1.c -o qu1 } ; if ($?) { .\qu1 }
+
+Enter number of elements: 5
+Enter elements:
+14 23 56 76 34
+Median = 34.00

@@ -1,0 +1,10 @@
+PS D:\Coding\Daa_lab\Lab_5\Q2> cd "d:\Coding\Daa_lab\Lab_5\Q2\" ; if ($?) { gcc qu2.c -o qu2 } ; if ($?) { .\qu2 }
+Enter number of elements: 5
+Enter 5 elements:
+12
+45 
+65
+85
+32
+Enter k: 2
+2th smallest element = 32

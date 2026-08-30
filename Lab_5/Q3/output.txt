@@ -1,0 +1,3 @@
+PS D:\Coding\Daa_lab\Lab_5\Q2> cd "d:\Coding\Daa_lab\Lab_5\Q3\" ; if ($?) { gcc qu3.c -o qu3 } ; if ($?) { .\qu3 }
+Sorted elements:
+3 9 10 12 12 23 25 45 67 95 
