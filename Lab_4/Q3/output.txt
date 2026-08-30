@@ -1,0 +1,16 @@
+Enter n: 6
+Enter elements:
+2 4 7 10 12 15
+Enter k: 3
+Enter T: 19
+
+YES: 3 elements can form 19
+
+
+Enter n: 6
+Enter elements:
+2 4 7 10 12 15
+Enter k: 3
+Enter T: 50
+
+NO: No such combination exists.

@@ -1,0 +1,13 @@
+Enter number of items: 8
+Enter number and colour (R/B/Y):
+10 R
+15 B
+20 R
+25 Y
+30 B
+35 R
+40 Y
+50 B
+
+Sorted by colour:
+(10, R) (20, R) (35, R) (15, B) (30, B) (50, B) (25, Y) (40, Y)

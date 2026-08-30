@@ -1,0 +1,38 @@
+Enter number of elements: 8
+
+Dictionary Operations Complexity
+---------------------------------------------
+
+Unsorted Array:
+Search       : O(n)
+Insert       : O(1)
+Delete       : O(n)
+Min / Max    : O(n)
+Predecessor  : O(n)
+Successor    : O(n)
+
+Sorted Array:
+Search       : O(log n)
+Insert       : O(n)
+Delete       : O(n)
+Min / Max    : O(1)
+Predecessor  : O(log n)
+Successor    : O(log n)
+
+Singly Linked List:
+Search       : O(n)
+Insert       : O(1)
+Delete       : O(n)
+Min / Max    : O(n)
+Predecessor  : O(n)
+Successor    : O(n)
+
+Doubly Linked List:
+Search       : O(n)
+Insert       : O(1)
+Delete       : O(1)  (given pointer)
+Min / Max    : O(n)
+Predecessor  : O(1)  (given pointer)
+Successor    : O(1)  (given pointer)
+
+Program completed for n = 8

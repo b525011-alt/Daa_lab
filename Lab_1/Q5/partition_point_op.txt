@@ -1,0 +1,6 @@
+PS D:\Coding> cd "d:\Coding\" ; if ($?) { gcc Partition.c -o Partition } ; if ($?) { .\Partition }
+
+Enter number of elements: 10
+Enter 10 elements (0's followed by 1's):
+0 0 0 0 0 0 1 1 1 1
+Partition point is at index 6.

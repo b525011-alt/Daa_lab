@@ -1,0 +1,15 @@
+PS D:\Coding> cd "d:\Coding\" ; if ($?) { gcc Duplicate.c -o Duplicate } ; if ($?) { .\Duplicate }
+
+Enter number of elements: 10
+Enter 10 numbers:
+23 
+43
+54
+65
+5
+6
+67
+54
+34
+65
+Duplicates found.

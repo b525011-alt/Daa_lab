@@ -1,0 +1,16 @@
+PS D:\Coding> cd "d:\Coding\" ; if ($?) { gcc bubblesort.c -o bubblesort } ; if ($?) { .\bubblesort }
+
+Enter number of elements: 10
+Enter 10 elements:
+12
+344
+564
+23
+34
+54
+64
+565
+656
+54
+Optimized Bubble Sort Comparisons = 39
+Normal Bubble Sort Comparisons = 45

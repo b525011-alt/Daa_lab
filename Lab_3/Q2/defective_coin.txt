@@ -1,0 +1,5 @@
+Enter number of coins: 8
+Enter coin weights:
+10 10 10 9 10 10 10 10
+  
+Defective coin = Coin 4 (weight = 9)  
