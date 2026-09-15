@@ -1,0 +1,4 @@
+Enter number of eggs: 5
+Enter number of floors: 7
+
+Minimum number of drops = 3

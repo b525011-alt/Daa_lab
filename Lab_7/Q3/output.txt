@@ -1,0 +1,15 @@
+Enter number of disks: 4
+
+Minimum number of moves = 9
+
+Sequence of moves:
+
+Move disk 1: Peg 1 -> Peg 2
+Move disk 1: Peg 1 -> Peg 4
+Move disk 2: Peg 1 -> Peg 3
+Move disk 1: Peg 4 -> Peg 3
+Move disk 3: Peg 1 -> Peg 4
+Move disk 1: Peg 3 -> Peg 1
+Move disk 2: Peg 3 -> Peg 4
+Move disk 1: Peg 1 -> Peg 4
+Move disk 1: Peg 2 -> Peg 4

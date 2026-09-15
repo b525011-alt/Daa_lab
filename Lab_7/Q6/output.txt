@@ -1,0 +1,18 @@
+Enter number of scientists: 6
+Enter birth year and death year for each scientist:
+1920
+1980
+1920
+1988
+1920
+1999
+1920
+1998
+1920
+1965
+
+1965
+1999
+
+Maximum number of scientists alive = 5
+Time/year when maximum occurs = 1920

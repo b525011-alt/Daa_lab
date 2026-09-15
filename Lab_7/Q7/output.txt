@@ -1,0 +1,10 @@
+Enter number of matrices: 4
+Enter 5 matrix dimensions:
+12
+52
+56
+48
+57
+
+Minimum number of scalar multiplications: 100032
+Optimal parenthesization: (((A1 x A2) x A3) x A4)

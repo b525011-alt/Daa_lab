@@ -1,0 +1,31 @@
+Enter number of switches: 4
+
+Initial state:
+1 1 1 1 
+
+Moves:
+Move 1: switch 2
+        1 1 0 1 
+Move 2: switch 1
+        1 1 0 0 
+Move 3: switch 4
+        0 1 0 0 
+Move 4: switch 1
+        0 1 0 1 
+Move 5: switch 2
+        0 1 1 1 
+Move 6: switch 1
+        0 1 1 0 
+Move 7: switch 3
+        0 0 1 0 
+Move 8: switch 1
+        0 0 1 1 
+Move 9: switch 2
+        0 0 0 1 
+Move 10: switch 1
+        0 0 0 0 
+
+Final state:
+0 0 0 0 
+
+Total moves performed = 10
