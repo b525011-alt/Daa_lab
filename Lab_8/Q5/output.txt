@@ -1,0 +1,12 @@
+==================================================
+  DAA LAB 8 - QUESTION 5: MAXIMUM SUM INCREASING SUBSEQUENCE
+==================================================
+
+--------------------------------------------------
+Test Case 1: Standard Array
+--------------------------------------------------
+Enter size of array A (n): 7
+Enter 7 positive integers: 1 101 2 3 100 4 5
+
+Maximum Sum Increasing Subsequence: 106
+(Subsequence: {1, 2, 3, 100})
