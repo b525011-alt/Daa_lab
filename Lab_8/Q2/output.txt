@@ -1,0 +1,22 @@
+==================================================
+   DAA LAB 8 - QUESTION 2: COIN CHANGE (TOTAL WAYS)
+==================================================
+
+--------------------------------------------------
+Test Case 1: Standard Denominations
+--------------------------------------------------
+Enter number of coin denominations (n): 3
+Enter 3 coin denominations: 1 2 5
+Enter target amount (V): 5
+
+Total distinct combinations to make amount 5: 4
+(Combinations: {1,1,1,1,1}, {1,1,1,2}, {1,2,2}, {5})
+
+--------------------------------------------------
+Test Case 2: No Combination Possible
+--------------------------------------------------
+Enter number of coin denominations (n): 2
+Enter 2 coin denominations: 2 4
+Enter target amount (V): 7
+
+Total distinct combinations to make amount 7: 0
