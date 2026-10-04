@@ -1,0 +1,12 @@
+==================================================
+     DAA LAB 8 - QUESTION 4: LONGEST INCREASING SUBSEQUENCE
+==================================================
+
+--------------------------------------------------
+Test Case 1: Standard Array
+--------------------------------------------------
+Enter size of array A (n): 8
+Enter 8 elements: 10 22 9 33 21 50 41 60
+
+Length of Longest Increasing Subsequence: 5
+(Subsequence: {10, 22, 33, 50, 60})
