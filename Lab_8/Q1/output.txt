@@ -1,0 +1,32 @@
+==================================================
+        DAA LAB 8 - QUESTION 1: MIN COIN CHANGE    
+==================================================
+
+--------------------------------------------------
+Test Case 1: Standard Coin Denominations
+--------------------------------------------------
+Enter number of coin denominations (n): 3
+Enter 3 coin denominations: 1 2 5
+Enter target amount (V): 11
+
+Minimum coins needed to make amount 11: 3
+(Explanation: 5 + 5 + 1 = 11, total 3 coins)
+
+--------------------------------------------------
+Test Case 2: Impossible Target Amount
+--------------------------------------------------
+Enter number of coin denominations (n): 2
+Enter 2 coin denominations: 2 4
+Enter target amount (V): 7
+
+Amount 7 cannot be formed using the given denominations.
+
+--------------------------------------------------
+Test Case 3: Exact Single Coin Match
+--------------------------------------------------
+Enter number of coin denominations (n): 4
+Enter 4 coin denominations: 1 5 6 9
+Enter target amount (V): 11
+
+Minimum coins needed to make amount 11: 2
+(Explanation: 5 + 6 = 11, total 2 coins)
