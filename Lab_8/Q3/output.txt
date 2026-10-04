@@ -1,0 +1,12 @@
+==================================================
+      DAA LAB 8 - QUESTION 3: LONGEST COMMON SUBSEQUENCE
+==================================================
+
+--------------------------------------------------
+Test Case 1:
+--------------------------------------------------
+Enter String X: ABCBDAB
+Enter String Y: BDCABA
+
+Length of LCS: 4
+Reconstructed LCS String: "BCBA"
